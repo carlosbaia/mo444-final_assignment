@@ -1,5 +1,6 @@
 # Unicamp MO444: Final Assignment
 
+- __final_assignment.pdf:__ Relatório da atividade
 
 - __create-trade-full.ipynb:__ Cria base de dados principal
 
